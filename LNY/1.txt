@@ -1,1 +1,2 @@
-hello, world
+hello, world!
+today,i start to learn how to use git and upload some files to my Repo.
